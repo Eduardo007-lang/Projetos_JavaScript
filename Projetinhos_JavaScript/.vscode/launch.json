@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "localhost/JS_Teste",
+            "request": "launch",
+            "url": "localhost/JS_Teste"
+        }
+    ]
+}
