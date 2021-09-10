@@ -3,9 +3,10 @@ body {
     background: rgb(100,149,237);
     font-family: 'Rampart one', cursive;
     color:white;
-   
+    overflow: hidden;
     
 }
+
 h1{
 
     margin-top: 10%;
