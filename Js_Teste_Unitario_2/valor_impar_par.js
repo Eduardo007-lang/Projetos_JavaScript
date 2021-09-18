@@ -17,5 +17,5 @@ try{
 
 }catch(e){
 
-    console.log(`[ERRO] ${e}`)
+    console.log(`[ERRO] ${e}`);
 }
