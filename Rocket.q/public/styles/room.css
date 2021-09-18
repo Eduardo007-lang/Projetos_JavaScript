@@ -129,7 +129,10 @@
     word-break: break-word;
     display: flex;
     align-items: center;
+<<<<<<< HEAD
     min-height: 5.5rem;
+=======
+>>>>>>> 617c29381e369f0e0c701082298554f1d0789210
     
 }
 
